@@ -17,10 +17,9 @@ Pessoal: inclui tipo e local do compromisso
 
 ✅ Representação clara de cada tarefa com sobrescrita do método toString()
  ## 🚀 Como Executar ##
-1.Clone o repositório: 
+1.Clone o repositório: https://github.com/Gean1218/To_Do_List.git
 
 2.Abra o projeto na sua IDE Java favorita.
-
 
 ### 🛠 Tecnologias Utilizadas  ### 
 ☕ Java
